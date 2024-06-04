@@ -1,4 +1,4 @@
-/*Programa que imprime a matriz e o seu maior número, além de dizer onde este numero está posicionado. */
+/*Programa que imprime a matriz e o seu maior número, além de dizer onde este número está posicionado. */
 #include <stdio.h>
 
 int main()
@@ -14,7 +14,7 @@ int main()
         printf("\n");
         printf("\n");
     }
-    printf("O maior numero nessa matriz é 92.");
+    printf("O maior número nessa matriz é 92.");
     printf("\nEle está localizado na linha %d e na coluna %d.", x,y);
     printf("\nPrograma feito por Felipe Gonsales.");
     
